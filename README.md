@@ -1,1 +1,1 @@
-These are my Machine Learning codes (from scratch) written in Python
+These are my Machine Learning codes from scratch in Python
